@@ -47,7 +47,7 @@
 		<commons.net.version>3.3</commons.net.version>
 		<aspectj.version>1.6.12</aspectj.version>
 		<netty.version>4.1.42.Final</netty.version>
-		<hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
+		<hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
 	</properties>
   
   <dependencies>
